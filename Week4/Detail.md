@@ -1,6 +1,10 @@
 # Weak 4 หลังสงกรานต์ 
 ![Logo](https://github.com/4mGroot/xOps-summer/blob/main/img/Week_3.jpg)
 # ทำการเข้าไปติดตั้งในมหาลัย
+- ## 10.00 น.
+![Logo](https://github.com/4mGroot/xOps-summer/blob/main/img/10.00.jpg)
+- ## 13.00 น.
+![Logo](https://github.com/4mGroot/xOps-summer/blob/main/img/13.00.jpg)
 - ## Firewall Fortigate 60e
 * เชื่อมต่อ PC/Notebook เข้ากับ Firewall ผ่านพอร์ตใดพอร์ตหนึ่ง ใน 1-7 พอร์ต
 * เข้า Browser จากนั้นเข้า Url >> https://192.168.1.99/ (Default IP Address)
